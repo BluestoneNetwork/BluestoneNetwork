@@ -22,3 +22,6 @@ There are five (5) technology stacks that make up the technology infrastructure 
 (Think about it, How many jobs have you applied to throughout your life time or sign up on a form, that organization still has your personal info. The risk is TOOOOO high to guess which one of those organizations can or, will be compromised. 
 
 Together, these five (5) layers will create a new regional infrastructure that will socially and financially empower governments, merchants and millions of citizens throughout the CARICOM region. 
+
+
+The Bluestone Network is powered by Bluestons,an a stablecoin backed by a basket of assets held in reserve at a regulated trust company. The reserves are diverse and designed in a way to keep Bluestones stable and liquid. 
